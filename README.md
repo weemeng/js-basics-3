@@ -1,5 +1,7 @@
 # JS Basics
 
+**This is the solution**. [See the original without the solution here][master].
+
 - Open the project in Visual Studio Code
 - Start the Live Server
 - Open the Console tab on Chrome's DevTools
@@ -52,3 +54,5 @@
 1. Using `map` on the `numbers` array, create a new array called
    `squareNumbers` where each element is the square of the corresponding
    element in the `numbers` array
+
+[master]: https://github.com/thoughtworks-jumpstart/js-basics-3
