@@ -1,0 +1,23 @@
+{
+  "name": "js-basics-3",
+  "version": "1.0.0",
+  "description": "- Open the project in Visual Studio Code - Start the Live Server - Open the Console tab on Chrome's DevTools",
+  "main": "exercise-4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weemeng/js-basics-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weemeng/js-basics-3/issues"
+  },
+  "homepage": "https://github.com/weemeng/js-basics-3#readme",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "watch": "^1.0.2"
+  }
+}
